@@ -1,16 +1,25 @@
-## Hi there 👋
+# Iaroslav Tkachenko
 
-<!--
-**iaroslav-tkachenko/iaroslav-tkachenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Product Manager building AI-powered, data-driven and user-focused products.
 
-Here are some ideas to get you started:
+Currently exploring:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- AI and LLM product development
+- Data analytics and experimentation
+- Rapid prototyping with modern development tools
+- Web applications for productivity and learning
+
+## Background
+
+- 5+ years in Product Management
+- Experience across fintech, e-commerce, mobile products and subscriptions
+- Master's in Data Science
+- Interested in Technical Product Management and AI products
+
+## Technologies and tools
+
+Python · SQL 
+
+## Links
+
+- [LinkedIn](www.linkedin.com/in/iaroslav-tkachenko)

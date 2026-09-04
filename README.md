@@ -1,24 +1,30 @@
 # Iaroslav Tkachenko
 
-Senior Product Manager building AI-powered, data-driven and user-focused products.
+Senior Product Manager with 5+ years of experience building data-driven digital products across growth, subscriptions, monetization, e-commerce, and fintech.
 
-Currently exploring:
+MSc Data Science · Product Management · AI-assisted product development
 
-- AI and LLM product development
-- Data analytics and experimentation
-- Rapid prototyping with modern development tools
-- Web applications for productivity and learning
+## Featured project — Language Tracker
+
+**A production web app for tracking language learning progress, study time, vocabulary, and CEFR development.**
+
+[**Try the live app →**](https://language-tracker-phi.vercel.app/)  
+[**View source code →**](https://github.com/iaroslav-tkachenko/language-tracker)
+
+Built end-to-end as a personal product using Codex — from product requirements and architecture to implementation, testing, deployment, and iteration.
+
+Create an account and try the Study Time, Vocabulary, Statistics, and CEFR progress features.
 
 ## Background
 
 - 5+ years in Product Management
-- Experience across fintech, e-commerce, mobile products and subscriptions
+- Experience across growth, subscriptions, fintech, e-commerce, and mobile products
 - Master's in Data Science
-- Interested in Technical Product Management and AI products
+- Interested in AI products, experimentation, and Technical Product Management
 
 ## Technologies and tools
 
-Python · SQL 
+Python · SQL · Codex · Claude · Cursor
 
 ## Links
 

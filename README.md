@@ -14,6 +14,7 @@ MSc Data Science · Product Management · AI-assisted product development
 Built end-to-end as a personal product using Codex — from product requirements and architecture to implementation, testing, deployment, and iteration.
 
 Create an account and try the Study Time, Vocabulary, Statistics, and CEFR progress features.
+<img width="923" height="468" alt="image" src="https://github.com/user-attachments/assets/3d11dab5-1760-4448-8d34-deb00d952606" />
 
 ## Background
 
